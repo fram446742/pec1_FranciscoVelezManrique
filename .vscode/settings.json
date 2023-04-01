@@ -1,0 +1,8 @@
+{
+    "editor.tabCompletion": "on",
+    "docwriter.hotkey.windows": "Alt + .",
+    "docwriter.language": "Spanish",
+    "docwriter.style": "Auto-detect",
+    "docwriter.progress.trackFunctions": false,
+    "docwriter.progress.trackClasses": true
+}
