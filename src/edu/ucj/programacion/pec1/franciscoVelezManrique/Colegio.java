@@ -110,4 +110,15 @@ public class Colegio {
         return this.aulas;
     }
 
+    /**
+     * La función devuelve una matriz de objetos de tipo Alumno.
+     *
+     * @return Una matriz de objetos de tipo "Alumno" (que probablemente sea una
+     *         clase que represente a
+     *         un alumno).
+     */
+    public Alumno[] getAlumnos() {
+        return this.alumnos;
+    }
+
 }

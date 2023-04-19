@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class UtilsColegio {
 
+    @SuppressWarnings("resource")
     /**
      * Le pide al usuario un valor de cierto tipo y lo devuelve
      *
